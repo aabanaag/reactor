@@ -1,0 +1,39 @@
+{
+  "name": "reactor",
+  "version": "0.1.0",
+  "description": "ReactJS starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabanaag/reactor.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Reactor"
+  ],
+  "author": "Alexis A. Banaag Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aabanaag/reactor/issues"
+  },
+  "homepage": "https://github.com/aabanaag/reactor#readme",
+  "dependencies": {
+    "babel-runtime": "^6.1.18",
+    "gulp": "^3.9.0",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.1.21",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "gulp-concat": "^2.6.0",
+    "gulp-util": "^3.0.7",
+    "webpack": "^1.12.6",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
